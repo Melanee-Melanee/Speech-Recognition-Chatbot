@@ -3,9 +3,9 @@
 https://github.com/Melanee-Melanee/Speech-Recognition-Chatbot/assets/74653444/b5aeee94-ef43-4366-9bf8-ea2ed0bd9579
 
 
-## OPENAI 
+# API
 
-To run this Python code, you need API from Openai: 
+To run this Python code, you need an API from Openai: 
 
 https://platform.openai.com/
 
@@ -16,9 +16,9 @@ https://platform.openai.com/
 
 
 
-  ## Install dependencies: 
+  # Install dependencies: 
   1. Install "pyttsx3"
   2. Install "speech_recognition"
 
-Warning: I have developed this code on Ubuntu Linux machine 
+## Notice: I have developed this code on Ubuntu Linux machine 
 
