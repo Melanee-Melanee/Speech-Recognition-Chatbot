@@ -19,9 +19,14 @@ https://platform.openai.com/
 
 
   # Install dependencies: 
-  1. Install "pyttsx3"
-  2. Install "speech_recognition"
-  3. Install "openai"
+  
+  pip install pyaudio
+  
+  pip install pyttsx3
+  
+  pip install SpeechRecognition
+  
+  pip install openai
 
 ## Notice: I have developed this code on Ubuntu Linux machine 
 
