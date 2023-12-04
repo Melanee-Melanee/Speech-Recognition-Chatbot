@@ -14,7 +14,7 @@ https://platform.openai.com/
 1. sign up
 2. Login
 3. Go to "API Keys"
-4. Click "Generate new secrte key"
+4. Click "Generate new secret key"
 
 
 
