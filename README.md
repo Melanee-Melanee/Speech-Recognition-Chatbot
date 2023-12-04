@@ -1,6 +1,6 @@
 # Speech-Recognition-Chatbot
 
-Do you like to speak with your computer?! So run this code!
+Do you like to speak with your machine?! So run this code!
 
 https://github.com/Melanee-Melanee/Speech-Recognition-Chatbot/assets/74653444/b5aeee94-ef43-4366-9bf8-ea2ed0bd9579
 
@@ -25,7 +25,7 @@ https://platform.openai.com/
 
 ## Notice: I have developed this code on Ubuntu Linux machine 
 
-## Applicatoins: This code can be implemented in various cases such as IoT and so on in the future. 
+## Applications: This code can be implemented in various cases such as IoT and so on in the future. 
 
 ## AI Usage Disclosure:
 
