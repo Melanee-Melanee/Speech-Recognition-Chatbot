@@ -26,7 +26,7 @@ https://platform.openai.com/
  
  !pip install openai==1.3.7
 
-## Notice: I have developed this code on Ubuntu Linux machine 
+## Notice: I have developed this code on Ubuntu 22.04.3 LTS Linux machine 
 
 ## Applications: This code can be implemented in various cases such as IoT and so on in the future. 
 
