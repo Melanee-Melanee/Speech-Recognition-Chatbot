@@ -28,8 +28,5 @@ https://platform.openai.com/
 
 ## Notice: I have developed this code on Ubuntu 22.04.3 LTS Linux machine 
 
-## Applications: This code can be implemented in various cases such as IoT and so on in the future. 
+## Applications: This code can be implemented in various cases such as IoT, robotics and so on in the future. 
 
-## AI Usage Disclosure:
-
-I am Melanee and as a data scientist committed to ethical practices, I hereby disclose that all codes, repositories, and models developed by me are intended solely for positive and beneficial applications for humanity. I strictly prohibit the use of my work for any detrimental, harmful, or unethical purposes.
